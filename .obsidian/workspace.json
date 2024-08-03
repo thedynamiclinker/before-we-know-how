@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "96d09dd30ba739ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3499926b3e2ca21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d623f1e38541ca4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1ede3b6c61ad81a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec56c835e87b61b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4237728b05a6df24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42fafb2d14e4811d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "52edf7be3b95d30c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "89a647d9785c30a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a72275da190c0777",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67940f26a625a14b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "abfd25994f03b915",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dec2d3a51c594d2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a536d1575ae38f24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "4237728b05a6df24",
+  "lastOpenFiles": [
+    "principles/WRITEME.md",
+    "WRITEME.md",
+    "include/abraham-linkin.png",
+    "include/abraham-linkin-small.jpg",
+    "publish.css",
+    "include/abraham-linkin-big.png",
+    "runtime/Episode 1 - Before We Know How.md",
+    "principles/The Best Moats are Built from Fear.md",
+    "principles/The Massage Parlor Legal Code.md",
+    "principles/BEARWITHME.md",
+    "runtime/Untitled",
+    "principles/BITs.md",
+    "Business Dictionary.md",
+    "principles",
+    "the-movement/WRITEME.md",
+    "runtime",
+    "include/profile-pic-set.png",
+    "include/ld.png",
+    "episodes/Episode 11 - Intangible Value.md",
+    "episodes/Episode 10 - Tangible Value.md",
+    "episodes/Episode 9 - How to Embezzle.md",
+    "episodes/Episode 8 - Compliance.md",
+    "episodes/Episode 7 - The Quickening.md",
+    "episodes/Episode 6 - Thing.md",
+    "episodes/Episode 5 - Individual.md",
+    "episodes/Episode 4 - Business.md",
+    "episodes/Episode 3 - The First Bit.md",
+    "episodes/Episode 2 - Business Plan.md",
+    "episodes/Episode 1 - Before We Know How.md",
+    "the-movement/lululemonade/lululemonade-1.jpg",
+    "the-movement/lululemonade/lululemonade-3.jpg",
+    "the-movement/lululemonade/lululemonade-2.jpg",
+    "the-movement/lululemonade/Lulu Lemonade.md",
+    "the-movement/lululemonade",
+    "the-movement",
+    "include/make-it-legal/32.png",
+    "include/make-it-legal/Screenshot from 2024-07-05 16-18-09.png",
+    "episodes/Episode 17 - Converts.md",
+    "episodes/Episode 18 - Partners.md",
+    "episodes/Episode 16 - Marketing.md",
+    "episodes/Episode 13 - Quitting.md",
+    "include/make-it-legal",
+    "include/how-to-make-it-legal",
+    "future",
+    "footnotes"
+  ]
+}
