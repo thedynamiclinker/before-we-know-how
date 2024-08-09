@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f3499926b3e2ca21",
+        "id": "e43d6dbd0e8c2e35",
         "type": "tabs",
         "children": [
           {
-            "id": "6d623f1e38541ca4",
+            "id": "94345adb145a7dda",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "principles/WRITEME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "principles/WRITEME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "principles/WRITEME.md"
+              }
             }
           }
         ]
@@ -145,13 +149,13 @@
   },
   "active": "4237728b05a6df24",
   "lastOpenFiles": [
-    "principles/WRITEME.md",
     "WRITEME.md",
+    "runtime/Episode 1 - Before We Know How.md",
+    "principles/WRITEME.md",
     "include/abraham-linkin.png",
     "include/abraham-linkin-small.jpg",
     "publish.css",
     "include/abraham-linkin-big.png",
-    "runtime/Episode 1 - Before We Know How.md",
     "principles/The Best Moats are Built from Fear.md",
     "principles/The Massage Parlor Legal Code.md",
     "principles/BEARWITHME.md",
