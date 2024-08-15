@@ -2,5 +2,15 @@
   "autoPairBrackets": false,
   "autoPairMarkdown": true,
   "spellcheck": false,
-  "useTab": true
+  "useTab": true,
+  "mobileToolbarCommands": [
+    "editor:configure-toolbar",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "editor:cut",
+    "editor:copy",
+    "editor:paste",
+    "editor:toggle-keyboard"
+  ]
 }
