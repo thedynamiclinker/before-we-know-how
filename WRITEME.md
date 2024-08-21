@@ -3,4 +3,4 @@ Tl;dr: Embezzle the penny.
 
 ---
 
-Goto: [[Episode 1 - Before We Know How]]
+Coming [soon](https://www.youtube.com/@thedynamiclinker).
