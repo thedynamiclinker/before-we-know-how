@@ -4,7 +4,7 @@
 
 Hi there,
 
-This book is for employees, workers, people who hate their jobs, or anyone whose job is just ok but often dreams of something better.
+This book is for employees, workers, people who hate their jobs, or anyone who think their job is just ok but dreams of something better.
 
 There's never been a worse time to be an employee. There's never been a better time to start a business.
 
