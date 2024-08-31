@@ -1,3 +1,4 @@
+
 ![[abraham-linkin.png|256]]
 <span style="display: block; text-align: center; font-style: italic;">The Book of Laws</span>
 
