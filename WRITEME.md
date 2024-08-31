@@ -8,7 +8,9 @@ This book is for employees, workers, people who hate their jobs, or anyone whose
 
 There's never been a worse time to be an employee. There's never been a better time to start a business.
 
-This book is a guide for the disillusioned on how to quit work, and start working for yourself.
+The AI apocalypse may come for your current company or career, but it doesn't have to be a dystopia we should fear.
+
+This book is a guide for the disillusioned on how to quit work, and start working for yourself. Not later. Now.
 
 Before you know how.
 
