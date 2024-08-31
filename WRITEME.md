@@ -1,7 +1,16 @@
-<span style="display: block; text-align: center; font-style: italic;">The Book of Laws</span>
 ![[abraham-linkin.png|256]]
-Tl;dr: Embezzle the penny.
+<span style="display: block; text-align: center; font-style: italic;">The Book of Laws</span>
+
+Hi there,
+
+This book is for employees, workers, people who hate their jobs, or anyone whose job is just ok but often dreams of something better.
+
+There's never been a worse time to be an employee. There's never been a better time to start a business.
+
+This book is a guide for the disillusioned on how to quit work, and start working for yourself.
+
+Before you know how.
 
 ---
 
-Coming [soon](https://www.youtube.com/@thedynamiclinker).
+Tl;dr: Embezzle the [[Episode 1 - Before We Know How|penny]].
