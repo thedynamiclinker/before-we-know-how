@@ -1,0 +1,2 @@
+> _"There's a thing that happens over time with any given civilization, which is that the laws and regulations accumulate until eventually everything becomes illegal."_ 
+  [[Elon Musk - Neuralink and the Future of Humanity#There's a thing that happens over time with any given civilization, which is that the laws and regulations accumulate until eventually everything becomes illegal|-Elon Musk, July 2024]]
