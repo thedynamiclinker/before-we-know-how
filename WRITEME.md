@@ -15,5 +15,12 @@ This book is a guide for the disillusioned on how to quit work, and start workin
 Before you know how.
 
 ---
+#### Episodes
+- [Episode 1 - Before We Know How](https://www.youtube.com/watch?v=CsFu6m6nt1Y)
+- [Episode 2 - Business Plan](https://www.youtube.com/watch?v=9RoHQ5yikZY)
+- [Episode 3 - The First Bit](https://www.youtube.com/watch?v=_ETMFlMigYM)
+- [Episode 4 - Business](https://www.youtube.com/watch?v=vxU--qWm5vc)
 
-Tl;dr: Embezzle the [[Episode 1 - Before We Know How|penny]].
+---
+
+Tl;dr: Embezzle the penny.
